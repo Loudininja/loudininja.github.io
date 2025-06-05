@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hangarhouse/static/css/main.e6c13ad2.css",
+    "main.js": "/hangarhouse/static/js/main.bf1a312b.js",
+    "static/js/317.573a3d84.chunk.js": "/hangarhouse/static/js/317.573a3d84.chunk.js",
+    "index.html": "/hangarhouse/index.html",
+    "main.e6c13ad2.css.map": "/hangarhouse/static/css/main.e6c13ad2.css.map",
+    "main.bf1a312b.js.map": "/hangarhouse/static/js/main.bf1a312b.js.map",
+    "317.573a3d84.chunk.js.map": "/hangarhouse/static/js/317.573a3d84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bf1a312b.js"
+  ]
+}
